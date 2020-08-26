@@ -1,0 +1,36 @@
+    body{
+        background-image: url('/errores/img/background.png');
+        background-color: #000;
+    }
+
+    .cont-slider {
+        width: 100%;
+        background: #545454;
+        overflow: hidden;
+        padding: 5px;
+        border-bottom: 4px solid #5cafdc;
+    }
+
+    .cont-principal {
+        width: 90%;
+        margin: 1.5em auto;
+        border: 1px solid rgba(0, 0, 0, 0.05);
+        background: rgba(255, 255, 255, 0.62);
+    }
+
+    .tittle-secc {
+        color: #FFF;
+        text-align: center;
+    }
+
+    .img-error{
+        padding:15px;
+    }
+
+    .error-p{
+        margin-top: 0;
+        margin-bottom: 25px;
+        font-weight: bold;
+        text-transform: uppercase;
+        color: #224441;
+    }
